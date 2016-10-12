@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorldTrip</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="montreal">Montreal</string>
+    <string name="london">London</string>
+    <string name="rio_de_janeiro">Rio de Janeiro</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="sidney">Sidney</string>
+    <string name="johannesburg">Johannesburg</string>
+</resources>
